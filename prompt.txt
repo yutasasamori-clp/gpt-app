@@ -1,0 +1,3 @@
+configuration.basePath = 'http://localhost:3031'
+options.headers = {}
+の場合、先程のrequestをaxios.getで再現するとどうなりますか？
